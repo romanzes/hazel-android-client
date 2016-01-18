@@ -1,0 +1,12 @@
+<resources>
+    <!-- common -->
+    <string name="appName">Hazel</string>
+
+    <!-- enter activity -->
+    <string name="enterUrl">Enter URL</string>
+    <string name="start">Start</string>
+
+    <!-- errors -->
+    <string name="tryAgain">Try again</string>
+    <string name="error">Error: %s</string>
+</resources>

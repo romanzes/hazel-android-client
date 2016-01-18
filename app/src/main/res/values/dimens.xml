@@ -1,0 +1,9 @@
+<resources>
+    <!-- common -->
+    <dimen name="activityHorizontalMargin">16dp</dimen>
+    <dimen name="activityVerticalMargin">16dp</dimen>
+
+    <!-- explorer -->
+    <dimen name="fileLayoutPadding">15dp</dimen>
+    <dimen name="fileTypeIconSize">24dp</dimen>
+</resources>
